@@ -1,1 +1,1 @@
-# ubuntu-tips
+# tips & tricks
